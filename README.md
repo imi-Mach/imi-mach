@@ -2,7 +2,7 @@
 
 Welcome to my profile page!
 
-To see my website go <a href="https://imi-mach.github.io/" target="_blank">here</a>.
+To see my website go [here](https://imi-mach.github.io/){:target="_blank"}.
 
 <!--
 **imi-Mach/imi-mach** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
