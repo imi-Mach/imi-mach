@@ -1,5 +1,9 @@
 ### Hi there 👋
 
+Welcome to my profile page!
+
+To see my website go [here](https://imi-mach.github.io/).
+
 <!--
 **imi-Mach/imi-mach** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
